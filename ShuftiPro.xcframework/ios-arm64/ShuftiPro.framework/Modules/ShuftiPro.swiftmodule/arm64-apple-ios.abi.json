@@ -36984,7 +36984,7 @@
       "kind": "StringLiteral",
       "offset": 678,
       "length": 7,
-      "value": "\"1.0.0\""
+      "value": "\"1.0.1\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/ShuftiProBundel\/ShuftiPro.swift",
@@ -38334,477 +38334,456 @@
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 168,
-      "length": 28,
-      "value": "\"https:\/\/api.shuftipro.com\/\""
+      "length": 33,
+      "value": "\"https:\/\/hugo-api.shuftipro.com\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 396,
+      "offset": 401,
       "length": 43,
       "value": "\"https:\/\/st-app.shuftiapps.com\/api\/v2\/sms\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 442,
-      "length": 39,
-      "value": "\"https:\/\/app.shuftipro.com\/api\/v2\/sms\/\""
+      "offset": 447,
+      "length": 44,
+      "value": "\"https:\/\/hugo-app.shuftipro.com\/api\/v2\/sms\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 514,
+      "offset": 524,
       "length": 44,
       "value": "\"https:\/\/st-app.shuftiapps.com\/api\/v2\/email\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 561,
-      "length": 40,
-      "value": "\"https:\/\/app.shuftipro.com\/api\/v2\/email\""
+      "offset": 571,
+      "length": 45,
+      "value": "\"https:\/\/hugo-app.shuftipro.com\/api\/v2\/email\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 635,
+      "offset": 650,
       "length": 51,
       "value": "\"https:\/\/st-api.shuftiapps.com\/verify\/verify_code\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 689,
-      "length": 47,
-      "value": "\"https:\/\/api.shuftipro.com\/verify\/verify_code\/\""
+      "offset": 704,
+      "length": 52,
+      "value": "\"https:\/\/hugo-api.shuftipro.com\/verify\/verify_code\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 790,
       "length": 57,
       "value": "\"https:\/\/st-api.shuftiapps.com\/verify\/verify_email_code\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 830,
-      "length": 53,
-      "value": "\"https:\/\/api.shuftipro.com\/verify\/verify_email_code\/\""
+      "offset": 850,
+      "length": 58,
+      "value": "\"https:\/\/hugo-api.shuftipro.com\/verify\/verify_email_code\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 923,
+      "offset": 948,
       "length": 53,
       "value": "\"https:\/\/st-app.shuftiapps.com\/api\/v2\/phone_decline\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 979,
-      "length": 49,
-      "value": "\"https:\/\/app.shuftipro.com\/api\/v2\/phone_decline\/\""
+      "offset": 1004,
+      "length": 54,
+      "value": "\"https:\/\/hugo-app.shuftipro.com\/api\/v2\/phone_decline\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1068,
+      "offset": 1098,
       "length": 53,
       "value": "\"https:\/\/st-app.shuftiapps.com\/api\/v2\/email_decline\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1124,
-      "length": 49,
-      "value": "\"https:\/\/app.shuftipro.com\/api\/v2\/email_decline\/\""
+      "offset": 1154,
+      "length": 54,
+      "value": "\"https:\/\/hugo-app.shuftipro.com\/api\/v2\/email_decline\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1214,
+      "offset": 1249,
       "length": 33,
       "value": "\"wss:\/\/st-ac.shuftiapps.com\/face\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1250,
-      "length": 29,
-      "value": "\"wss:\/\/ac.shuftipro.com\/face\""
+      "offset": 1285,
+      "length": 34,
+      "value": "\"wss:\/\/hugo-ac.shuftipro.com\/face\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1360,
+      "offset": 1400,
       "length": 60,
       "value": "\"wss:\/\/st-ns.shuftiapps.com\/v1.1\/?transport=websocket&EIO=3\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1423,
-      "length": 56,
-      "value": "\"wss:\/\/ns.shuftipro.com\/v1.1\/?transport=websocket&EIO=3\""
+      "offset": 1463,
+      "length": 61,
+      "value": "\"wss:\/\/hugo-ns.shuftipro.com\/v1.1\/?transport=websocket&EIO=3\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1524,
+      "offset": 1569,
       "length": 37,
       "value": "\"wss:\/\/st-ac.shuftiapps.com\/document\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1564,
-      "length": 33,
-      "value": "\"wss:\/\/ac.shuftipro.com\/document\""
+      "offset": 1609,
+      "length": 38,
+      "value": "\"wss:\/\/hugo-ac.shuftipro.com\/document\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1685,
+      "offset": 1735,
       "length": 38,
       "value": "\"wss:\/\/st-nfc.shuftiapps.com\/document\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1726,
-      "length": 34,
-      "value": "\"wss:\/\/nfc.shuftipro.com\/document\""
+      "offset": 1776,
+      "length": 39,
+      "value": "\"wss:\/\/hugo-nfc.shuftipro.com\/document\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1853,
+      "offset": 1908,
       "length": 55,
       "value": "\"https:\/\/st-app-sdk.shuftiapps.com\/api\/sdk\/get\/sdk\/url\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 1911,
-      "length": 51,
-      "value": "\"https:\/\/app-sdk.shuftipro.com\/api\/sdk\/get\/sdk\/url\""
+      "offset": 1966,
+      "length": 56,
+      "value": "\"https:\/\/hugo-app-sdk.shuftipro.com\/api\/sdk\/get\/sdk\/url\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2103,
+      "offset": 2163,
       "length": 81,
       "value": "\"wss:\/\/st-app.shuftiapps.com\/v2.0\/?transport=websocket&q1=SPMOB12345678910&EIO=4\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2187,
-      "length": 77,
-      "value": "\"wss:\/\/app.shuftipro.com\/v2.0\/?transport=websocket&q1=SPMOB12345678910&EIO=4\""
+      "offset": 2247,
+      "length": 82,
+      "value": "\"wss:\/\/hugo-app.shuftipro.com\/v2.0\/?transport=websocket&q1=SPMOB12345678910&EIO=4\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2462,
+      "offset": 2527,
       "length": 71,
       "value": "\"https:\/\/st-ra-backoffice.shuftiapps.com\/questionnaire-api\/v3\/set-data\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2536,
-      "length": 56,
-      "value": "\"https:\/\/ra.shuftipro.com\/questionnaire-api\/v3\/set-data\""
+      "offset": 2601,
+      "length": 61,
+      "value": "\"https:\/\/hugo-ra.shuftipro.com\/questionnaire-api\/v3\/set-data\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2625,
+      "offset": 2695,
       "length": 68,
       "value": "\"https:\/\/st-ra-backoffice.shuftiapps.com\/questionnaire-api\/get-data\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2696,
-      "length": 53,
-      "value": "\"https:\/\/ra.shuftipro.com\/questionnaire-api\/get-data\""
+      "offset": 2766,
+      "length": 58,
+      "value": "\"https:\/\/hugo-ra.shuftipro.com\/questionnaire-api\/get-data\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2791,
+      "offset": 2866,
       "length": 66,
       "value": "\"wss:\/\/st-bbv.shuftiapps.com\/socket.io\/?transport=websocket&EIO=4\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2860,
+      "offset": 2935,
       "length": 62,
       "value": "\"wss:\/\/bbv.shuftipro.com\/socket.io\/?transport=websocket&EIO=4\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 2935,
+      "offset": 3010,
       "length": 18,
       "value": "\"SPMOB12345678910\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3024,
+      "offset": 3099,
       "length": 56,
       "value": "\"wss:\/\/st-app-sdk.shuftiapps.com\/api\/sdk\/websocket\/?q1=\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3083,
-      "length": 52,
-      "value": "\"wss:\/\/app-sdk.shuftipro.com\/api\/sdk\/websocket\/?q1=\""
+      "offset": 3158,
+      "length": 57,
+      "value": "\"wss:\/\/hugo-app-sdk.shuftipro.com\/api\/sdk\/websocket\/?q1=\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3236,
+      "offset": 3316,
       "length": 51,
       "value": "\"https:\/\/st-api.shuftiapps.com\/sdk\/request\/status\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3290,
-      "length": 47,
-      "value": "\"https:\/\/api.shuftipro.com\/sdk\/request\/status\/\""
+      "offset": 3370,
+      "length": 52,
+      "value": "\"https:\/\/hugo-api.shuftipro.com\/sdk\/request\/status\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3519,
+      "offset": 3604,
       "length": 65,
       "value": "\"https:\/\/wi.shuftiapps.com\/api\/webhooks\/62e75de700e59e187206ae74\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3612,
+      "offset": 3697,
       "length": 39,
       "value": "\"https:\/\/st-app.shuftiapps.com\/api\/v2\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3654,
-      "length": 35,
-      "value": "\"https:\/\/app.shuftipro.com\/api\/v2\/\""
+      "offset": 3739,
+      "length": 40,
+      "value": "\"https:\/\/hugo-app.shuftipro.com\/api\/v2\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3729,
+      "offset": 3819,
       "length": 40,
       "value": "\"https:\/\/st-app.shuftiapps.com\/process\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3772,
-      "length": 49,
-      "value": "\"https:\/\/app.shuftipro.com\/verification\/process\/\""
+      "offset": 3862,
+      "length": 54,
+      "value": "\"https:\/\/hugo-app.shuftipro.com\/verification\/process\/\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 3861,
-      "length": 34,
-      "value": "\"https:\/\/backoffice.shuftipro.com\""
+      "offset": 3956,
+      "length": 39,
+      "value": "\"https:\/\/hugo-backoffice.shuftipro.com\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 4046,
+      "offset": 4146,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 4186,
+      "offset": 4286,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4308,
+      "offset": 4408,
       "length": 23,
       "value": "\"InternetCheckingPopUp\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 4079,
+      "offset": 4179,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 4429,
+      "offset": 4529,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4446,
+      "offset": 4546,
       "length": 16,
       "value": "\"awsedrftgyhuj1\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 4492,
+      "offset": 4592,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4882,
+      "offset": 4982,
       "length": 64,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 4934,
+      "offset": 5034,
       "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 4945,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 4983,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
-      "kind": "StringLiteral",
-      "offset": 5015,
-      "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 5045,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 5083,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 5115,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
+      "kind": "StringLiteral",
+      "offset": 5145,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 5073,
+      "offset": 5173,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 5103,
+      "offset": 5203,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 5130,
+      "offset": 5230,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 5391,
+      "offset": 5491,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 5421,
+      "offset": 5521,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 5485,
+      "offset": 5585,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 5445,
+      "offset": 5545,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 5587,
+      "offset": 5687,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 5610,
+      "offset": 5710,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 5637,
+      "offset": 5737,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5669,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5706,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5736,
-      "length": 4,
-      "value": "true"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
@@ -38816,16 +38795,16 @@
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 5803,
+      "offset": 5806,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 5840,
-      "length": 5,
-      "value": "false"
+      "offset": 5836,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
@@ -38837,196 +38816,217 @@
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 5908,
+      "offset": 5903,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 5943,
+      "offset": 5940,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 5981,
+      "offset": 5969,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 6022,
+      "offset": 6008,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 6056,
+      "offset": 6043,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6081,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6122,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6156,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 6089,
+      "offset": 6189,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 6129,
+      "offset": 6229,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6163,
+      "offset": 6263,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6213,
+      "offset": 6313,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 6242,
+      "offset": 6342,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 6273,
+      "offset": 6373,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "IntegerLiteral",
-      "offset": 6310,
+      "offset": 6410,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 6344,
+      "offset": 6444,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 6373,
+      "offset": 6473,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 6402,
+      "offset": 6502,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 6428,
+      "offset": 6528,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 6454,
+      "offset": 6554,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 6476,
+      "offset": 6576,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "FloatLiteral",
-      "offset": 6497,
+      "offset": 6597,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6514,
+      "offset": 6614,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6534,
+      "offset": 6634,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6553,
+      "offset": 6653,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6574,
+      "offset": 6674,
       "length": 10,
       "value": "\"Portrait\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "StringLiteral",
-      "offset": 6601,
+      "offset": 6701,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "BooleanLiteral",
-      "offset": 6634,
+      "offset": 6734,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "Array",
-      "offset": 6674,
+      "offset": 6774,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "Array",
-      "offset": 6714,
+      "offset": 6814,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Constants\/Constants.swift",
       "kind": "Array",
-      "offset": 6753,
+      "offset": 6853,
       "length": 2,
       "value": "[]"
     },
@@ -39306,119 +39306,119 @@
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "StringLiteral",
-      "offset": 17658,
+      "offset": 17663,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "StringLiteral",
-      "offset": 17681,
+      "offset": 17686,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "StringLiteral",
-      "offset": 17705,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17747,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
-      "kind": "StringLiteral",
-      "offset": 21172,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
-      "kind": "StringLiteral",
-      "offset": 21195,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
-      "kind": "StringLiteral",
-      "offset": 21219,
+      "offset": 17710,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "BooleanLiteral",
-      "offset": 21261,
+      "offset": 17752,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "StringLiteral",
-      "offset": 24750,
+      "offset": 21177,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "StringLiteral",
-      "offset": 24773,
+      "offset": 21200,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "StringLiteral",
-      "offset": 24797,
+      "offset": 21224,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "BooleanLiteral",
-      "offset": 24839,
+      "offset": 21266,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "StringLiteral",
-      "offset": 29654,
+      "offset": 24755,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "StringLiteral",
-      "offset": 29677,
+      "offset": 24778,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "StringLiteral",
-      "offset": 29701,
+      "offset": 24802,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "BooleanLiteral",
-      "offset": 29743,
+      "offset": 24844,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
       "kind": "StringLiteral",
-      "offset": 33027,
+      "offset": 29659,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 29682,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 29706,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
+      "kind": "BooleanLiteral",
+      "offset": 29748,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/emantahir\/Desktop\/ios-onsite-sdk\/ShuftiPro\/Utilities\/APICalling\/CallAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 33032,
       "length": 5,
       "value": "\"GET\""
     },
