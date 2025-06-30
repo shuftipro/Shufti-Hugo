@@ -2187,12 +2187,8 @@ SWIFT_CLASS("_TtC9ShuftiPro31UserConsentTakingViewController")
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified heightConstraintCancel;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceCancel;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified policyTextLabel;
-@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified hbtfLabel;
-@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified heightFortheHBTFLabel;
-@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified widthConsentTextView;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified mainViewHeight;
 @property (nonatomic, weak) IBOutlet UIView * _Null_unspecified backBlurrview;
-@property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified hbtfTopSpace;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified blurrImage;
 @property (nonatomic, weak) IBOutlet UIVisualEffectView * _Null_unspecified UIBlurrEffectView;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint * _Null_unspecified bottomSpaceForButtons;
